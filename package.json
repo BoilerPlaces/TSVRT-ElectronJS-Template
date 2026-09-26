@@ -55,5 +55,10 @@
     "prettier": "2.6.0",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.9.3"
+  },
+  "allowScripts": {
+    "electron@30.5.1": true,
+    "esbuild@0.14.54": true,
+    "sharp@0.32.6": true
   }
 }
